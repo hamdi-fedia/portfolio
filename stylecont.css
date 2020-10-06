@@ -1,0 +1,45 @@
+header {
+      width: 100vw;
+      height: 100vh;
+      background: url(8.jpg);
+      background-size: cover;
+}
+nav {
+      position: fixed;
+      width: 100%;
+      
+}
+
+nav ul {
+      line-height: 60px;
+      text-align: right;
+      margin: 0;
+      padding-right: 40px;
+}
+
+.trn
+{
+  background-image: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0));
+
+}
+
+nav ul li {
+      display: inline-block;
+      padding: 16px 20px;;
+}
+
+nav ul li a {
+      text-decoration: none;
+      color: #fff;
+      font-size: 16px;
+}
+li a:hover {
+  color: #56eb07;
+}
+.logo {
+
+            position: fixed;
+            top: 10;
+            margin-top: 16px;
+            padding-left: 30px;
+      }
